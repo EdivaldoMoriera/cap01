@@ -1,0 +1,19 @@
+@font-face {
+    font-family:'moreira' ;
+    src: url('/fonts/BeauRivage-Regular.ttf') format('truetype');
+    }
+    @font-face {
+        font-family:'moreira2' ;
+        src: url('/fonts/PermanentMarker-Regular.ttf') format('truetype');
+    }
+
+h1{
+    font-family:moreira,'Courier New', Courier, monospace
+}
+p{
+    font-family:moreira2, Arial, Helvetica, sans-serif;
+    text-indent: 30px;;
+}
+h2{
+    font-family: moreira2, 'Courier New', Courier, monospace;
+}

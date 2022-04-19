@@ -1,0 +1,32 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-attachment: fixed;
+    
+}
+body{
+    background-image: linear-gradient(to right,#2b105474,#BDE038);
+}
+main{
+    background-attachment: fixed;
+    background-color: wheat;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10pc #7E37C3;
+
+}
+p{
+    text-align: justify;
+    color:black;
+    ;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color:#10454F ;
+    text-align: center;
+    text-shadow: 1px 1px 1px red;
+}
+h2{
+    color: #1F0802;
+}
